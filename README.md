@@ -3,4 +3,4 @@ MarlonBot Legal Information and Download
 This repository contains the legal pages for the MusicBotBISn. It includes the Privacy Policy and Terms of Service for the bot. And a link to download the bot for your Discord server.
 
 This should be the right link to download my bot: https://discord.com/oauth2/authorize?client_id=1364224039274549399
-USE COMMANDS !join !play !stop !pause !leave
+USE COMMANDS !p !P !stop
